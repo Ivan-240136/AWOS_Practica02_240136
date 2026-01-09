@@ -16,4 +16,4 @@ Esta práctica será desarrollada con estructura de ramales, para el estudiante 
 ### Tabla de Ejercicios
 |No.|Descripcion|Potenciador|Estatus|
 |---|---|---|---|
-|1.|Declaracion de variable|1|En Progreso|
+|1.|Declaracion de variable|1|Finalizado|
