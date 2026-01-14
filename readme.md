@@ -17,3 +17,4 @@ Esta práctica será desarrollada con estructura de ramales, para el estudiante 
 |No.|Descripcion|Potenciador|Estatus|
 |---|---|---|---|
 |1.|Declaracion de variable|1|Finalizado|
+|2.|Tipos de datos|7|Finalizado|
